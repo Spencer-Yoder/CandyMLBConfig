@@ -1,14 +1,7 @@
 {
    "active":{
       "price":2500,
-      "rarity":[
-         "PRODUCT_RARITY_CORE",
-         "PRODUCT_RARITY_COMMON",
-         "PRODUCT_RARITY_UNCOMMON",
-         "PRODUCT_RARITY_RARE",
-         "PRODUCT_RARITY_EPIC",
-         "PRODUCT_RARITY_LEGENDARY"
-      ]
+      "rarity":null
    },
    "sold":{
       "price":2500,

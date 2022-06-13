@@ -1,6 +1,6 @@
 {
    "active":{
-      "price":100,
+      "price":2500,
       "rarity":[
          "PRODUCT_RARITY_CORE",
          "PRODUCT_RARITY_COMMON",
@@ -11,8 +11,8 @@
       ]
    },
    "sold":{
-      "price":10,
+      "price":2500,
       "rarity":null
    },
-   "syncInterval":10
+   "syncInterval":20
 }
